@@ -1,0 +1,9 @@
+.Product{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    padding: 6px;
+    margin: 5px;
+    border: 2px solid grey;
+    background-color: aquamarine;
+}

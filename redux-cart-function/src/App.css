@@ -1,0 +1,7 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+}
+.App{
+    width: 100vw;
+}
