@@ -3,5 +3,9 @@
     flex-wrap: wrap;
 }
 .App{
-    width: 100vw;
+    width: 97vw;
+    position: relative;
+}
+Cart{
+    position: absolute;
 }

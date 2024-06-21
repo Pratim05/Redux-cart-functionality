@@ -15,7 +15,7 @@ function Product(props) {
             <p>Price : {props.price}</p>
         </div>
         <button className='CartBtn' onClick={(e)=>dishpatch(addItem({
-          name:props.title, price:props.price
+          name:props.title, price:props.price, id : props.id
         }))}>Add to Cart</button>
     </div>
   )
